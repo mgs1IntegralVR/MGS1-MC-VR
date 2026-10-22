@@ -1,0 +1,18 @@
+# Build output
+*.dll
+*.exe
+*.o
+*.obj
+*.pdb
+*.lib
+*.exp
+build/
+out/
+# Game-side files
+*.log
+mgs1mc_vr.ini
+mgs1mc_vr_probe/
+# Archives and scratch
+*.zip
+*.7z
+__pycache__/
